@@ -132,7 +132,7 @@ A continuación adjuntamos una imagen con el concepto.
 ![Error al cargar la imagen](https://github.com/Pistoncito/Magnets-Fear/blob/master/Images/Diagrama%20de%20clases%20API%20REST/MagnetsFear%20Class.PNG)
 
 ## Como usar la aplicacion
-Para poder ejecutar la aplicación será necesario crear un servidor web, recomendamos utilizar la extensión de chrome 200 ok web server
+Para poder ejecutar la aplicación será necesario crear un servidor web. Recomendaría utilizar la extensión de chrome 200 ok web server
 por su simplicidad. Simplemente, en la opción "CHOOSE FOLDER" seleccionar la carpeta del proyecto y pulsar en la dirección Web Server Url que aparece justo debajo.
 
 Otra opción es la siguiente:
