@@ -34,8 +34,8 @@ El jugador puede cambiar su polaridad cada 0.5 segundos, creando un campo magné
 * Hay 3 bases por cada jugador, que son invulnerables durante 3 segundos al aparecer. Si no han sido destruídas, desaparecen 30 segundos después generando otras 3 en distintas posiciones, indiferentemente de cuántas quedasen anteriormente.
 * Si un proyectil choca contra una base, la destruye. Una vez se destruyen todas las bases de un jugador, desaparecen todas las bases restantes en el escenario generando otras 3 para ambos jugadores en posiciones distintas.
 
-![Error al cargar la imagen](https://github.com/Pistoncito/Magnets-Fear/blob/master/Images/magnets%20fear%20classic%20design.png)
-![Error al cargar la imagen](https://github.com/Pistoncito/Magnets-Fear/blob/master/Images/magnets%20fear%20efecto%20de%20colision.png)
+![Error al cargar la imagen](https://github.com/AvisPraeda/MagnetsFear-Portfolio-/blob/master/Images/magnets%20fear%20classic%20design.png)
+![Error al cargar la imagen](https://github.com/AvisPraeda/MagnetsFear-Portfolio-/blob/master/Images/magnets%20fear%20efecto%20de%20colision.png)
  
 ### Puntuación
 Cada vez que una base sea destruída el jugador propietario gana 10 puntos.
@@ -60,7 +60,7 @@ Actualmente, sólo existe un modo en el que 2 jugadores compiten entre ellos con
 
 ## Interfaces
 ### Diagrama de Flujo
-![Error al cargar la imagen](https://github.com/Pistoncito/Magnets-Fear/blob/master/Images/DiagramaFlujo1.3.PNG)
+![Error al cargar la imagen](https://github.com/AvisPraeda/MagnetsFear-Portfolio-/blob/master/Images/Diagramas/DiagramaFlujo1.3.PNG)
 
 ### Pantalla de Inicio
 Se reflejarán las opciones:
@@ -71,11 +71,11 @@ Se reflejarán las opciones:
    * Volver: vuelve al menú de inicio.
 3. Salir: Aparecerá un mensaje de confirmación y, en caso de que se acepte se saldrá del juego. 
 
-![Error](https://github.com/Pistoncito/Magnets-Fear/blob/master/Images/Interfaces/Men%C3%BAInicio.PNG)
-![Error](https://github.com/Pistoncito/Magnets-Fear/blob/master/Images/Interfaces/Opciones.PNG)
-![Error](https://github.com/Pistoncito/Magnets-Fear/blob/master/Images/Interfaces/Audio.PNG)
-![Error](https://github.com/Pistoncito/Magnets-Fear/blob/master/Images/Interfaces/Classic.PNG)
-![Error](https://github.com/Pistoncito/Magnets-Fear/blob/master/Images/Interfaces/FinPartida.PNG)
+![Error](https://github.com/AvisPraeda/MagnetsFear-Portfolio-/blob/master/Images/Interfaces/Men%C3%BAInicio.PNG)
+![Error](https://github.com/AvisPraeda/MagnetsFear-Portfolio-/blob/master/Images/Interfaces/Opciones.PNG)
+![Error](https://github.com/AvisPraeda/MagnetsFear-Portfolio-/blob/master/Images/Interfaces/Audio.PNG)
+![Error](https://github.com/AvisPraeda/MagnetsFear-Portfolio-/master/Images/Interfaces/Classic.PNG)
+![Error](https://github.com/AvisPraeda/MagnetsFear-Portfolio-/blob/master/Images/Interfaces/FinPartida.PNG)
 
 
 ## Arte
@@ -105,7 +105,7 @@ A los jugadores se les indicará el rango de acción de su magnetismo mediante u
 
 A continuación adjuntamos una imagen con el concepto.
 
-![Error al cargar la imagen](https://github.com/Pistoncito/Magnets-Fear/blob/master/Images/Estetica%20in-game.png)
+![Error al cargar la imagen](https://github.com/AvisPraeda/MagnetsFear-Portfolio-/blob/master/Images/Estetica%20in-game.png)
 
 ### Música y Sonido (Incompleto)
 * Música
@@ -129,7 +129,7 @@ A continuación adjuntamos una imagen con el concepto.
 
 
 ## Diagrama de Clases
-![Error al cargar la imagen](https://github.com/Pistoncito/Magnets-Fear/blob/master/Images/Diagrama%20de%20clases%20API%20REST/MagnetsFear%20Class.PNG)
+![Error al cargar la imagen](https://github.com/AvisPraeda/MagnetsFear-Portfolio-/blob/master/Images/Diagramas/MagnetsFear%20Class.PNG)
 
 ## Como usar la aplicacion
 Para poder ejecutar la aplicación será necesario crear un servidor web. Recomendaría utilizar la extensión de chrome 200 ok web server
