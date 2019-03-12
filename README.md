@@ -74,7 +74,7 @@ Se reflejarán las opciones:
 ![Error](https://github.com/AvisPraeda/MagnetsFear-Portfolio-/blob/master/Images/Interfaces/Men%C3%BAInicio.PNG)
 ![Error](https://github.com/AvisPraeda/MagnetsFear-Portfolio-/blob/master/Images/Interfaces/Opciones.PNG)
 ![Error](https://github.com/AvisPraeda/MagnetsFear-Portfolio-/blob/master/Images/Interfaces/Audio.PNG)
-![Error](https://github.com/AvisPraeda/MagnetsFear-Portfolio-/master/Images/Interfaces/Classic.PNG)
+![Error](https://github.com/AvisPraeda/MagnetsFear-Portfolio-/blob/master/Images/Interfaces/Classic.PNG)
 ![Error](https://github.com/AvisPraeda/MagnetsFear-Portfolio-/blob/master/Images/Interfaces/FinPartida.PNG)
 
 
