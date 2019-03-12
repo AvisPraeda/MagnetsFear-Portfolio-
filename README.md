@@ -127,10 +127,6 @@ A continuación adjuntamos una imagen con el concepto.
   7. Aparición de las bases 
  
 
-
-## Diagrama de Clases
-![Error al cargar la imagen](https://github.com/AvisPraeda/MagnetsFear-Portfolio-/blob/master/Images/Diagramas/MagnetsFear%20Class.PNG)
-
 ## Como usar la aplicacion
 Para poder ejecutar la aplicación será necesario crear un servidor web. Recomendaría utilizar la extensión de chrome 200 ok web server
 por su simplicidad. Simplemente, en la opción "CHOOSE FOLDER" seleccionar la carpeta del proyecto y pulsar en la dirección Web Server Url que aparece justo debajo.
