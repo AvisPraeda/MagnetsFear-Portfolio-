@@ -1,7 +1,7 @@
 # MagnetsFear-Portfolio-
-ESP: Este es un videojuego que realicé con un amigo para probar una mecánica que nos había resultado interesante. El proyecto original fue desarrollado en su cuenta (https://github.com/Pistoncito/Magnets-Fear), pero lo subo de nuevo en mi cuenta ya que el documento de diseño no está actualizado y me gustaría enseñar este juego en mi portfolio.
+ESP: Este es un videojuego que realicé con un amigo para probar una mecánica que nos había resultado interesante. Puedes revisar el proyecto original en su cuenta (https://github.com/Pistoncito/Magnets-Fear).
 
-ENG: This is a videogame I made with a friend to try interesting mechanics. The original project was created in his account (https://github.com/Pistoncito/Magnets-Fear), but i'm uploading it again in my account because the game design doccument was outdated and i would like to show this project in my portfolio.
+ENG: This is a videogame I made with a friend to try interesting mechanics. You may revise the original project in his account (https://github.com/Pistoncito/Magnets-Fear).
 
 
 ## Documento de Diseño
