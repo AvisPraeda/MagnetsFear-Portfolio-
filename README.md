@@ -1,7 +1,7 @@
 # MagnetsFear-Portfolio-
-ESP: Este es un videojuego que realicé con un amigo para probar una mecánica que nos había resultado interesante. Puedes revisar el proyecto original en su cuenta (https://github.com/Pistoncito/Magnets-Fear).
+ESP: Este es un videojuego que realicé con Víctor González para probar una mecánica que nos había resultado interesante. Puedes revisar el proyecto original en su cuenta (https://github.com/Pistoncito/Magnets-Fear).
 
-ENG: This is a videogame I made with a friend to try interesting mechanics. You may revise the original project in his account (https://github.com/Pistoncito/Magnets-Fear).
+ENG: This is a videogame I made with Víctor González to try interesting mechanics. You may revise the original project in his account (https://github.com/Pistoncito/Magnets-Fear).
 
 
 ## Documento de Diseño
