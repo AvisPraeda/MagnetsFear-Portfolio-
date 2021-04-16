@@ -1,4 +1,7 @@
 # MagnetsFear-Portfolio-
+
+Gameplay Trailer: https://www.youtube.com/watch?v=2yZh8HX2rIY
+
 ESP: Este es un videojuego que realicé con Víctor González para probar una mecánica que nos había resultado interesante. Puedes revisar el proyecto original en su cuenta (https://github.com/Pistoncito/Magnets-Fear).
 
 ENG: This is a videogame I made with Víctor González to try interesting mechanics. You may revise the original project in his account (https://github.com/Pistoncito/Magnets-Fear).
