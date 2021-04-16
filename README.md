@@ -1,4 +1,4 @@
-# MagnetsFear-Portfolio-
+# MagnetsFear
 
 Gameplay Trailer: https://www.youtube.com/watch?v=2yZh8HX2rIY
 
